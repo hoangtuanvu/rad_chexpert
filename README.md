@@ -147,3 +147,11 @@ python private_eval.py --prediction=test_preds.csv --labels=valid.csv --beta=1
 ```python
 TODO
 ```
+
+# Contact
+If you have any quesions, please post it on github issues or email at hoangvu.kstn@gmail.com
+
+# Reference
+```python
+TODO
+```
