@@ -80,7 +80,7 @@ These above command is packaged by using the following bash file:
 # Details of configuration in cfg.json 
 Advanced option can be controlled in configuration file cfg.json
 Note that the hyperparameters hparams will be dumped to this cfg.json as well
-```json 
+```python 
 {
   "backbone": "densenet201", //CNN architecture
   "gray": false, # Run model with gray images
