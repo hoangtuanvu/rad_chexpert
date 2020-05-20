@@ -1,8 +1,11 @@
 # rad_chestxray
 This is a repo for anyone wants to apply AI/DL in diagnosing diseases from Chest-Xray Images
 
+# Top 10 CheXpert Competition 
+![alt text](samples/ranking.png)
+
+Let's get started to review the following steps
 # Directory structure
-To modulize the repo, the current structure from @hoangvu is adopted as follows:
 ```bash 
 ├── checkpoint # Where to save the model 
 │   └── 
