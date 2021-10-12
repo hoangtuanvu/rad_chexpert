@@ -68,7 +68,7 @@ networkx==2.4
 notebook==6.0.2
 numpy==1.16.4
 olefile==0.46
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 opt-einsum==3.1.0
 pandas==0.25.2
 pandocfilters==1.4.2
